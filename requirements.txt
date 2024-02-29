@@ -1,0 +1,2 @@
+sherpa-onnx==1.8.9
+webrtcvad==2.0.10
